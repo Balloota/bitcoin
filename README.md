@@ -1,3 +1,5 @@
+=$ 01.01.2018
+
 Bitcoin Core integration/staging tree
 =====================================
 
